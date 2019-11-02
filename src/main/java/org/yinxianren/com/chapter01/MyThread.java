@@ -26,6 +26,7 @@ package org.yinxianren.com.chapter01;
  *    }
  *
  */
+
 public class MyThread extends Thread {
 
     private int i = 5;
